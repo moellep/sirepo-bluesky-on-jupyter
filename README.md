@@ -17,3 +17,9 @@
   - cd ~/jupyter/moellep/sirepo-bluesky-on-jupyter
   - python prep-bluesky-on-jupyter.py
   - now open a notebook in the moellep/sirepo-bluesky-on-jupyter/NSLS-II/sirepo-bluesky/docs/source/notebookes directory or moellep/sirepo-bluesky-on-jupyter/NSLS-II/bloptools/docs/source/notebooks/gp-optimizer.ipynb
+
+
+# Adding a new simulation:
+To add a new simulation to the bluesky testing environment, follow the steps in this wiki.
+
+https://github.com/moellep/sirepo-bluesky-on-jupyter/wiki/Add-a-sim-to-bluesky
